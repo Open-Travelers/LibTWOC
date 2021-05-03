@@ -3,4 +3,4 @@ A C# 8+ library for reading and writing the various file formats used by the 200
 
 This library depends on SixLabors.ImageSharp.
 
-An (unfinished) document containing definitions for the formats can be found in "/Serializable Objects/DOCS.md"
+An (unfinished) document containing definitions for the formats can be found [here](Serializable Objects/DOCS.md)
